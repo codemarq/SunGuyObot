@@ -1,0 +1,40 @@
+{
+  "name": "sun_guy_obot",
+  "version": "1.0.0",
+  "description": "html game",
+  "main": "server.js",
+  "scripts": {
+    "test": "karma start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemarq/SunGuyObot.git"
+  },
+  "keywords": [
+    "html5",
+    "game",
+    "canvas"
+  ],
+  "author": "John-Mike Marquardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemarq/SunGuyObot/issues"
+  },
+  "homepage": "https://github.com/codemarq/SunGuyObot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-stormpath": "^3.1.6",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.27.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "nightmare": "^2.8.1",
+    "watchify": "^3.7.0"
+  }
+}
