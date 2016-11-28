@@ -1,0 +1,11 @@
+/* CSS Specific to html of the website */
+
+canvas {
+    border-style: solid;
+    border-color: #080867;
+    border-width: 3px;
+}
+
+footer {
+    background-color: #1a237e;
+}
