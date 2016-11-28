@@ -1,3 +1,5 @@
+[![NSP Status](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669/badge)](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669) [![Build Status](https://travis-ci.org/codemarq/SunGuyObot.svg?branch=master)](https://travis-ci.org/codemarq/SunGuyObot)
+
 # Sun-Guy Obot
 "Sun-Guy Obot" is a multiplayer online game in HTML5 where players (2D sprites) throw dodge-balls at each other in a 2D arena (html canvas).
 
