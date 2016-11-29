@@ -1,4 +1,4 @@
-<!-- [![NSP Status](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669/badge)](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669) [![Build Status](https://travis-ci.org/codemarq/SunGuyObot.svg?branch=master)](https://travis-ci.org/codemarq/SunGuyObot)   [![Code Climate](https://codeclimate.com/github/codemarq/SunGuyObot/badges/gpa.svg)](https://codeclimate.com/github/codemarq/SunGuyObot)    [![Test Coverage](https://codeclimate.com/github/codemarq/SunGuyObot/badges/coverage.svg)](https://codeclimate.com/github/codemarq/SunGuyObot/coverage) [![Issue Count](https://codeclimate.com/github/codemarq/SunGuyObot/badges/issue_count.svg)](https://codeclimate.com/github/codemarq/SunGuyObot) -->
+[![NSP Status](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669/badge)](https://nodesecurity.io/orgs/codemarq/projects/48f1b3d2-9361-4f44-821c-65c4ac536669) [![Build Status](https://travis-ci.org/codemarq/SunGuyObot.svg?branch=master)](https://travis-ci.org/codemarq/SunGuyObot)   [![Code Climate](https://codeclimate.com/github/codemarq/SunGuyObot/badges/gpa.svg)](https://codeclimate.com/github/codemarq/SunGuyObot)    [![Test Coverage](https://codeclimate.com/github/codemarq/SunGuyObot/badges/coverage.svg)](https://codeclimate.com/github/codemarq/SunGuyObot/coverage) [![Issue Count](https://codeclimate.com/github/codemarq/SunGuyObot/badges/issue_count.svg)](https://codeclimate.com/github/codemarq/SunGuyObot)
 
 # Sun-Guy Obot
 "Sun-Guy Obot" is a multiplayer online game in HTML5 where players (2D sprites) throw dodge-balls at each other in a 2D arena (html canvas).
@@ -15,6 +15,10 @@ Make an HTML5 Canvas game, animating 2D sprites, where players can compete with 
 - [Atom](https://atom.io/)
 - [PiskelApp](http://www.piskelapp.com/)
 - [Texture Packer](https://www.codeandweb.com/texturepacker)
+- Node
+- Express
+- Jade
+- Sass
 
 ## Project Wireframe
 [Balsamiq](https://sun-guyobot.mybalsamiq.com/projects/game)
